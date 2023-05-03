@@ -1,5 +1,9 @@
 title:TurboMcCloud Wishlist
 description:Wishlist for Destiny 2
 
+// The Title ()
+dimwishlist:item=3559361670&perks=1359896290,2846385770
+
 // Taraxippos ()
 dimwishlist:item=1389546626&perks=1365187766,3038247973
+
