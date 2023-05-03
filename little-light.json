@@ -1,0 +1,40 @@
+{
+    "description": "Wishlist for Destiny 2",
+    "name": "TurboMcCloud Wishlist",
+    "data": [
+        {
+            "description": "",
+            "hash": 1389546626,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    3038247973
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "",
+            "hash": 1389546626,
+            "name": "",
+            "plugs": [
+                [
+                    2387244414
+                ],
+                [
+                    3038247973
+                ]
+            ],
+            "tags": []
+        }
+    ]
+}
