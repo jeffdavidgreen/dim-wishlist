@@ -1,11 +1,25 @@
 title:TurboMcCloud Wishlist
 description:Wishlist for Destiny 2
 
+// Glissando-47 ()
+dimwishlist:item=222606050&perks=1523832109,438098033
+
+
 // The Title ()
-dimwishlist:item=3559361670&perks=1359896290,2846385770
+dimwishlist:item=294129361&perks=1359896290,4082225868
+
+
+// The Title ()
+dimwishlist:item=294129361&perks=1359896290,2209918983
+
+
+// Pressurized Precision ()
+dimwishlist:item=1084190509&perks=1195158366,1799762209
+
 
 // Taraxippos ()
 dimwishlist:item=1389546626&perks=1365187766,3038247973
+
 
 // Randy's Throwing Knife ()
 dimwishlist:item=3292795429&perks=1365187766,3891536761
