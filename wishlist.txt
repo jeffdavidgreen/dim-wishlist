@@ -13,6 +13,10 @@ dimwishlist:item=294129361&perks=1359896290,4082225868
 dimwishlist:item=294129361&perks=1359896290,2209918983
 
 
+// Positive Outlook ()
+dimwishlist:item=491078457&perks=2010801679,2048641572
+
+
 // Pressurized Precision ()
 dimwishlist:item=1084190509&perks=1195158366,1799762209
 
@@ -27,3 +31,5 @@ dimwishlist:item=2073794990&perks=957782887,47981717
 
 // Randy's Throwing Knife ()
 dimwishlist:item=3292795429&perks=1365187766,3891536761
+
+
