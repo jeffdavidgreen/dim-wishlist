@@ -32,4 +32,8 @@ dimwishlist:item=2073794990&perks=957782887,47981717
 // Randy's Throwing Knife ()
 dimwishlist:item=3292795429&perks=1365187766,3891536761
 
+// Battle Scar
+dimwishlist:item=2099894368&perks=3700496672,3891536761,684616255#notes:|tags:keep
+dimwishlist:item=2099894368&perks=3700496672,3891536761,2697220197#notes:|tags:keep
+
 
