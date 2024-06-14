@@ -158,3 +158,73 @@ dimwishlist:item=1296429091&perks=3643424744,2679249093
 // PERSUADER
 dimwishlist:item=781498181&perks=247725512,3400784728
 dimwishlist:item=781498181&perks=776531651,2048641572
+
+// BETTER DEVILS
+dimwishlist:item=4152016199&perks=1523832109,3038247973
+dimwishlist:item=4152016199&perks=3828510309,1015611457
+dimwishlist:item=-4152016199
+
+// PATRON OF LOST CAUSES
+dimwishlist:item=2249996761&perks=3400784728,3038247973
+dimwishlist:item=-2249996761
+
+// CONTROLLING VISION
+dimwishlist:item=423343404&perks=3436462433,1774574192
+dimwishlist:item=-423343404
+
+// BREACHLIGHT
+dimwishlist:item=2328923181&perks=3523296417,2109543898
+dimwishlist:item=-2328923181
+
+// YAROVIT MG4
+dimwishlist:item=3959549446&perks=880644845,2109543898
+dimwishlist:item=3959549446&perks=1359896290,2387244414
+dimwishlist:item=-3959549446
+
+// LINE IN THE SAND
+dimwishlist:item=2450049485&perks=689005463,3993379141,3078487919
+dimwishlist:item=2450049485&perks=3993379141,3078487919
+dimwishlist:item=-2450049485
+
+// SUSPECTUM-4FR
+dimwishlist:item=3615421669&perks=1600092898,2978966579
+dimwishlist:item=-3615421669
+
+// THE RIPOSTE
+dimwishlist:item=3754408118&perks=776531651,2048641572
+dimwishlist:item=3754408118&perks=1890422124,1359896290
+dimwishlist:item=3754408118&perks=2387244414,365154968
+dimwishlist:item=3754408118&perks=3828510309,1015611457
+dimwishlist:item=-3754408118
+
+// HUSH
+dimwishlist:item=3962575203&perks=3108830275,4293542123
+dimwishlist:item=-3962575203
+
+// TRUTHTELLER
+dimwishlist:item=447296102&perks=3828510309,960810156
+dimwishlist:item=447296102&perks=2779035018,960810156
+dimwishlist:item=-447296102
+
+// MAAHES HC4
+dimwishlist:item=1246793994&perks=776531651,2048641572
+dimwishlist:item=1246793994&perks=3108830275,2848615171
+dimwishlist:item=1246793994&perks=3108830275,2048641572
+dimwishlist:item=-1246793994
+
+// ADVERSE POSSESSION IX
+dimwishlist:item=1890332078&perks=3643424744,3592538738
+dimwishlist:item=-1890332078
+
+// DED GRAMARYE IV
+dimwishlist:item=499245245&perks=1583705720,2173046394
+dimwishlist:item=499245245&perks=3436462433,2173046394
+dimwishlist:item=499245245&perks=1821614984,2396489472
+dimwishlist:item=-499245245
+
+// THE DOMINO
+dimwishlist:item=2800870005&perks=1820235745,4293542123
+dimwishlist:item=-2800870005
+
+// KHVOSTOV 7G-02
+dimwishlist:item=4209476803
