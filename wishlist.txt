@@ -232,3 +232,52 @@ dimwishlist:item=4209476803
 // CRUX TERMINATION IV
 dimwishlist:item=1719687748&perks=1523832109,1439600632
 dimwishlist:item=-1719687748
+
+// OLD STERLING
+dimwishlist:item=3678653083&perks=3418782618,831391274
+dimwishlist:item=-3678653083
+
+// NOX PERENNIAL V
+dimwishlist:item=2767393525&perks=968510818,2594592626
+dimwishlist:item=-2767393525
+
+// TUSK OF THE BOAR
+dimwishlist:item=1218113510&perks=1631667848,4082225868
+dimwishlist:item=1218113510&perks=3828510309,4082225868
+dimwishlist:item=1218113510&perks=3828510309,2396489472
+dimwishlist:item=1218113510&perks=968510818,2396489472
+dimwishlist:item=-1218113510
+
+// JUDGEMENT
+dimwishlist:item=2969415423&perks=124408337,1954620775
+dimwishlist:item=2969415423&perks=3828510309,1954620775
+dimwishlist:item=2969415423&perks=3523296417,11612903
+dimwishlist:item=-2969415423
+
+// PSI HERMETIC V
+dimwishlist:item=358788212&perks=1168162263,1015611457
+dimwishlist:item=358788212&perks=1168162263,124408337
+dimwishlist:item=358788212&perks=3828510309,1015611457
+dimwishlist:item=358788212&perks=3828510309,460017080
+dimwishlist:item=-358788212
+
+// RELENTLESS
+dimwishlist:item=435821041&perks=247725512,3047969693
+dimwishlist:item=435821041&perks=923806249,831391274
+dimwishlist:item=435821041&perks=247725512,460017080
+dimwishlist:item=-435821041
+
+// ADJUDICATOR
+dimwishlist:item=1013434963&perks=1820235745,3891536761
+dimwishlist:item=1013434963&perks=2779035018,3891536761
+dimwishlist:item=1013434963&perks=2779035018,95528736
+dimwishlist:item=1013434963&perks=1820235745,95528736
+dimwishlist:item=-1013434963
+
+// MULTIMACH CCX
+dimwishlist:item=3211624072&perks=1359896290,1890422124
+dimwishlist:item=3211624072&perks=2846385770,365154968
+dimwishlist:item=3211624072&perks=1359896290,3891536761
+dimwishlist:item=3211624072&perks=243981275,3891536761
+dimwishlist:item=3211624072&perks=1359896290,1015611457
+dimwishlist:item=-3211624072
