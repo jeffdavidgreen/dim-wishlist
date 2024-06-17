@@ -228,3 +228,7 @@ dimwishlist:item=-2800870005
 
 // KHVOSTOV 7G-02
 dimwishlist:item=4209476803
+
+// CRUX TERMINATION IV
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=-1719687748
