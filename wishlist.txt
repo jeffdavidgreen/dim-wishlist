@@ -135,6 +135,7 @@ dimwishlist:item=2189073092&perks=1359896290,1890422124
 dimwishlist:item=2189073092&perks=923806249,365154968
 dimwishlist:item=3428407746&perks=1359896290,1890422124
 dimwishlist:item=3428407746&perks=923806249,365154968
+dimwishlist:item=-3428407746
 
 // RIISWALKER
 dimwishlist:item=1764868900&perks=3161816588,47981717
@@ -292,39 +293,46 @@ dimwishlist:item=2598420927&perks=1359896290,1890422124
 dimwishlist:item=2598420927&perks=1820235745,3891536761
 dimwishlist:item=2598420927&perks=1359896290,365154968
 dimwishlist:item=2598420927&perks=1820235745,365154968
+dimwishlist:item=-2598420927
 
 // ORIGIN STORY
 dimwishlist:item=2826850739&perks=3619207468,365154968
 dimwishlist:item=2826850739&perks=243981275,3891536761
 dimwishlist:item=2826850739&perks=3523296417,691659142
-
+dimwishlist:item=-2826850739
 
 // Vengeful Whisper
 dimwishlist:item=839344841&perks=923806249,831391274
 dimwishlist:item=839344841&perks=201365942,555281244
 dimwishlist:item=839344841&perks=3365897133,2652708987
+dimwishlist:item=-839344841
 
 // Liturgy
 dimwishlist:item=2599338624&perks=2039302152,2978966579
+dimwishlist:item=-2599338624
 
 // Crimil's Dagger
 dimwishlist:item=198854575&perks=1168162263,1015611457
 dimwishlist:item=198854575&perks=3828510309,1015611457
+dimwishlist:item=-198854575
 
 // Spare Rations
 dimwishlist:item=3236112986&perks=3161816588,1015611457
 dimwishlist:item=3236112986&perks=1820235745,3891536761
 dimwishlist:item=3236112986&perks=247725512,1015611457
+dimwishlist:item=-3236112986
 
 // Exuviae
 dimwishlist:item=2823644677&perks=1955165503,124408337
 dimwishlist:item=2823644677&perks=3400784728,555281244
 dimwishlist:item=2823644677&perks=3619207468,3038247973
+dimwishlist:item=-2823644677
 
 // Marcato-45
 dimwishlist:item=4233375372&perks=923806249,3708227201
 dimwishlist:item=4233375372&perks=923806249,95528736
 dimwishlist:item=4233375372&perks=3400784728,3708227201
+dimwishlist:item=-4233375372
 
 // EPISODE 3
 
@@ -333,6 +341,7 @@ dimwishlist:item=3229982889&perks=692399809,2298656195
 dimwishlist:item=3229982889&perks=923806249,960997401
 dimwishlist:item=3229982889&perks=3523296417,1089671869
 dimwishlist:item=2987244302&perks=120721526
+dimwishlist:item=-3229982889
 
 // ADAMANTITE (ADEPT)
 dimwishlist:item=3485029080&perks=692399809,2298656195
@@ -343,10 +352,12 @@ dimwishlist:item=601574723&perks=120721526
 // Boondoggle Mk. 55
 dimwishlist:item=32287609&perks=1866048759,4082225868
 dimwishlist:item=32287609&perks=1820235745,4082225868
+dimwishlist:item=-32287609
 
 // Abyssal Edge
 dimwishlist:item=547165496&perks=1749209109,31345821
 dimwishlist:item=4221591387&perks=120721526
+dimwishlist:item=-547165496
 
 // Abyssal Edge (Adept)
 dimwishlist:item=2712683313&perks=1749209109,31345821
@@ -357,6 +368,7 @@ dimwishlist:item=727781522&perks=1820235745,2396489472
 dimwishlist:item=727781522&perks=2010801679,2396489472
 dimwishlist:item=727781522&perks=2010801679,1427256713
 dimwishlist:item=615373993&perks=120721526
+dimwishlist:item=-727781522
 
 //Eyes Unveiled (Adept)
 dimwishlist:item=282549639&perks=1820235745,2396489472
@@ -366,11 +378,13 @@ dimwishlist:item=4173311704&perks=120721526
 
 // Hollow Words
 dimwishlist:item=342027677&perks=2010801679,3218042543
+dimwishlist:item=-342027677
 
 // Watchful Eye
 dimwishlist:item=1757177186&perks=3643424744,3966416502
 dimwishlist:item=1757177186&perks=1359896290,3966416502
 dimwishlist:item=768610585&perks=120721526
+dimwishlist:item=-1757177186
 
 // Watchful Eye (Adept)
 dimwishlist:item=737409399&perks=3643424744,3966416502
@@ -379,12 +393,14 @@ dimwishlist:item=2856225832&perks=120721526
 
 // Admetus-D
 dimwishlist:item=3776430252&perks=3713215006,1464081238
+dimwishlist:item=-3776430252
 
 // Psychopomp
 dimwishlist:item=4028298892&perks=1583705720,3218042543
 dimwishlist:item=4028298892&perks=2779035018,3218042543
 dimwishlist:item=4028298892&perks=2010801679,3218042543
 dimwishlist:item=3840794631&perks=120721526
+dimwishlist:item=-4028298892
 
 // Psychopomp (Adept)
 dimwishlist:item=704410186&perks=1583705720,3218042543
@@ -395,3 +411,4 @@ dimwishlist:item=704410186&perks=120721526
 // Qua Furor V
 dimwishlist:item=751880654&perks=3400784728,1890422124
 dimwishlist:item=751880654&perks=2779035018,2848615171
+dimwishlist:item=-751880654
