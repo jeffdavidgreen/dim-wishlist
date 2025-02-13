@@ -351,6 +351,7 @@ dimwishlist:item=601574723&perks=120721526
 // Boondoggle Mk. 55
 dimwishlist:item=32287609&perks=1866048759,4082225868
 dimwishlist:item=32287609&perks=1820235745,4082225868
+dimwishlist:item=32287609&perks=1820235745,3673922083
 dimwishlist:item=-32287609
 
 // Abyssal Edge
